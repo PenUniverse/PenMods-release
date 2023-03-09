@@ -1,0 +1,26 @@
+name: "新功能请求/建议"
+description: 提出意见建议，请求添加一个新的功能
+labels: ["enhancement"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      感谢您花费宝贵时间填写这份新功能请求！
+- type: textarea
+  id: problem
+  attributes:
+    label: 您的建议是否与现存的某个问题相关？
+    description: 请简要描述遇到的问题
+    placeholder: |
+      e.g. 我发现词典笔在使用时...
+- type: textarea
+  id: solution
+  attributes:
+    label: 您认为还缺少什么？
+    description: 请简单描述您设想的解决方案
+    placeholder: |
+      e.g. 添加一个...功能
+- type: markdown
+  attributes:
+    value: |
+      再次感谢您对 PenMods Project 的贡献！
