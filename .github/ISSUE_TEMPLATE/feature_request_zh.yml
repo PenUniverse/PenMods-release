@@ -1,6 +1,6 @@
 name: "新功能请求/建议"
 description: 提出意见建议，请求添加一个新的功能
-labels: ["enhancement"]
+labels: ["type: enhancement"]
 body:
 - type: markdown
   attributes:
