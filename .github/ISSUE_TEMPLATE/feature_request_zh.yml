@@ -9,7 +9,7 @@ body:
 - type: textarea
   id: problem
   attributes:
-    label: 您的建议是否与现存的某个问题相关？
+    label: 您遇到了什么问题？
     description: 请简要描述遇到的问题
     placeholder: |
       e.g. 我发现词典笔在使用时...
