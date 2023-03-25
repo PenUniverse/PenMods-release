@@ -1,6 +1,6 @@
 name: "报告漏洞/问题"
 description: "向我们报告漏洞/问题，让 PenMods 变得更好"
-labels: ["type: bug"]
+labels: ["type: bug", "status: need review"]
 body:
   - type: markdown
     attributes:
