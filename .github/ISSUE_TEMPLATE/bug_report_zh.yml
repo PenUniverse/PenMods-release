@@ -15,6 +15,7 @@ body:
       description: 出现问题的模块
       options:
         - PenMods (由Mod修改导致的)
+        - Installer (安装程序)
         - YoudaoDictPen（词典笔主程序自身）
         - Services (PenMods相关服务，如更新服务)
     validations:
