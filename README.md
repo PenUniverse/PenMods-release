@@ -86,6 +86,7 @@ P5/X5 | 🔴 | N/A | N/A | -
  - 请移步 [Installer](https://github.com/PenUniverse/Installer)
 
 ### Contact Us
+ - Telegram 群组 [PenUniverse](https://t.me/PenUniverse)
  - QQ交流群: [641664873](https://jq.qq.com/?_wv=1027&k=e0dvMZQU)
 
 ### Credits
