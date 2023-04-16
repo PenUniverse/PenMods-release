@@ -87,7 +87,9 @@ P5/X5 | 🔴 | N/A | N/A | -
 
 ### Contact Us
  - Telegram 群组 [PenUniverse](https://t.me/PenUniverse)
- - QQ交流群: [641664873](https://jq.qq.com/?_wv=1027&k=e0dvMZQU)
+ - QQ交流群
+   - 一群 (已满) [641664873](https://jq.qq.com/?_wv=1027&k=e0dvMZQU)
+   - 二群 [769086098](https://jq.qq.com/?_wv=1027&k=IHhATIO6)
 
 ### Credits
  - [Dobby](https://github.com/jmpews/Dobby)
