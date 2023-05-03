@@ -86,10 +86,10 @@ P5/X5 | 🔴 | N/A | N/A | -
  - 请移步 [Installer](https://github.com/PenUniverse/Installer)
 
 ### Contact Us
+ - [官方社区](https://dictpen.amd.rocks/)
  - Telegram 群组 [PenUniverse](https://t.me/PenUniverse)
- - QQ交流群
-   - 一群 (已满) [641664873](https://jq.qq.com/?_wv=1027&k=e0dvMZQU)
-   - 二群 [769086098](https://jq.qq.com/?_wv=1027&k=IHhATIO6)
+
+> 请注意：PenMods 没有创建任何官方QQ群。
 
 ### Credits
  - [Dobby](https://github.com/jmpews/Dobby)
