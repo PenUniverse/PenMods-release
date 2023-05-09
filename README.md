@@ -35,7 +35,7 @@ P5/X5 | 🔴 | N/A | N/A | -
 
 ### Features (1.2.0)
  - 🔥 增强AI助手
-   - New Bing [配置指南](https://github.com/PenUniverse/PenMods-release/blob/main/ChatHubConfigurationGuide.md)
+   - New Bing [配置指南](https://dictpen.amd.rocks/post/126)
  - 增强单词本
    - 支持区分词组和单词（可开关）
    - 修复“选择语言”不会记住的Bug
