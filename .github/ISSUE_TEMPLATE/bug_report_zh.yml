@@ -7,7 +7,14 @@ body:
       value: |
         感谢您花时间填写这份漏洞/问题反馈报告！
         > 请勿在这里反馈具有严重影响的漏洞, 相关问题请在聊天软件内私聊项目开发者并及时向网易有道反馈（如果是系统自身问题）
-
+  - type: checkboxes
+    id: no-duplicate-issue
+    attributes:
+      label: 不要发送重复的问题报告
+      description: 在提出问题前，请浏览/搜索已存在且被打开的Issue，确保它们没有被提出过。
+      options:
+        - label: 我已进行以上操作
+          required: true
   - type: dropdown
     id: module
     attributes:
