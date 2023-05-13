@@ -11,7 +11,7 @@ body:
     id: no-duplicate-issue
     attributes:
       label: 不要发送重复的问题报告
-      description: 在提出问题前，请浏览/搜索已存在且被打开的Issue，确保它们没有被提出过。
+      description: 在提出问题前，请浏览/搜索已存在且被打开的Issues，确保它们没有被提出过。
       options:
         - label: 我已进行以上操作
           required: true
