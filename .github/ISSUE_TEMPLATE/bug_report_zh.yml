@@ -10,8 +10,9 @@ body:
   - type: checkboxes
     id: no-duplicate-issue
     attributes:
+      label: 避免发送重复的问题报告
       options:
-        - label: 我已查看所有打开的 Issues，确保这个问题没有被提出过
+        - label: 我已检查所有打开的 Issues，确保这个问题没有被提出过
           required: true
   - type: dropdown
     id: module
