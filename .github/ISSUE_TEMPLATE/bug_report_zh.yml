@@ -10,10 +10,8 @@ body:
   - type: checkboxes
     id: no-duplicate-issue
     attributes:
-      label: 不要发送重复的问题报告
-      description: 在提出问题前，请浏览/搜索已存在且被打开的Issues，确保它们没有被提出过。
       options:
-        - label: 我已进行以上操作
+        - label: 我已查看所有打开的 Issues，确保这个问题没有被提出过
           required: true
   - type: dropdown
     id: module
