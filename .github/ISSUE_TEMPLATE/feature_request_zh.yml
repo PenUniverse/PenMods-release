@@ -9,11 +9,10 @@ body:
 - type: checkboxes
   id: no-duplicate-issue
   attributes:
-    label: 不要发送重复的功能请求
-    description: 在提出功能请求前，请浏览/搜索已存在且被打开的Issues，确保它们没有被提出过。
-    options:
-      - label: 我已进行以上操作
-        required: true
+      label: 避免发送重复的功能请求
+      options:
+        - label: 我已查看所有打开的 Issues，确保这个功能没有被提出过
+          required: true
 - type: textarea
   id: problem
   attributes:
